@@ -32,7 +32,7 @@ int main(int argc,char *argv[]){
 					printf("%s\n",e);
 					c=c+n;
 				}else{
-					printf("%s\n",c);
+					printf("%s",c);
 					nn=1;
 				}
 			}
